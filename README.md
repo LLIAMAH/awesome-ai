@@ -44,7 +44,7 @@
 40. https://dezgo.com/ (генерация картинок без цензуры)
 41. https://mage.space/ и https://avyn.com/ (обычная понятная удобная генерация картинок, без ограничений)
 42. http://cvl-demos.cs.nott.ac.uk/vrn/ (делает из 2D в 3D)
-43. 
+43. https://twinailabs.com (30+ нейросетей для генерации фото и видео в одном интерфейсе: Sora 2, Veo 3, Flux 2, Kling 3; работает из России без VPN, оплата картами РФ)
 ## ТЕКСТ И ДАННЫЕ:
 1. https://books.google.com/talktobooks/ (отвечает цитатами из книг)
 2. https://yandex.ru/lab/yalm (дописывает текст)
